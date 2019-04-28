@@ -1,0 +1,3 @@
+rootProject.name = 'indoliqueur_2806'
+
+include ':app'
